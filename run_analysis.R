@@ -73,4 +73,4 @@ data_3$subject<-as.factor(data_3$subject)
 data_4<-data_3[,-2]
 data_5<-melt(data_4, id=c("subject","activity"))
 data_6<-dcast(data_5,subject + activity ~ variable,mean)
-write.csv(data_6,"average_of_each_variable_for_each_activity_and_subject.csv")
+write.table(data_6,"final_tidy_data.txt",row.name=FALSE)
