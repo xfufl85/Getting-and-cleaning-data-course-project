@@ -10,6 +10,7 @@ What is in the Human Activity Recognition Using Smartphones Dataset:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+
 Specific files:
 - 'README.txt'
 - 'features_info.txt': Shows information about the variables used on the feature vector.
