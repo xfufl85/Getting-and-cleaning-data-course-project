@@ -1,4 +1,5 @@
 Pipeline for processing the data sets
+
 Step 1: download the zipped dataset from internet and unzip the files
 
 Step 2: prepare the training dataset by reading the training set, training subject, and training activity data;
