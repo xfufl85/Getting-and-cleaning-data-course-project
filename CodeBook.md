@@ -36,15 +36,23 @@ Step 8: create a second, independent tidy data set with the average of each vari
 Information about the headers in the final_tidy_data.txt.
 
 subject: ID of each people taking the test
+
 activity: The activity performed when measurements were taken. The activities including the following:
+
 WALKING: subject was walking during the test
+
 WALKING_UPSTAIRS: subject was walking up a staircase during the test
+
 WALKING_DOWNSTAIRS: subject was walking down a staircase during the test
+
 SITTING: subject was sitting during the test
+
 STANDING: subject was standing during the test
+
 LAYING: subject was laying down during the test
 
 Measurements include the following: 
+
 [3] "timeBodyAccMeanX"                    
  [4] "timeBodyAccMeanY"                    
  [5] "timeBodyAccMeanZ"                    
