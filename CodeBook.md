@@ -31,4 +31,4 @@ Step 8: create a second, independent tidy data set with the average of each vari
         second, convert the columns "activity" and "subject" to factors;
         third, melt the dataset by ids "subject" and "activity"
         forth, dcast the melted dataset by "subject" and "activity" and take the mean of each variable;
-        finally, save the tidy data to a csv file  
+        finally, save the tidy data to a txt file  
